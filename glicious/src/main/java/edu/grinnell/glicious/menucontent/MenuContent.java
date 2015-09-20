@@ -1,6 +1,7 @@
 package edu.grinnell.glicious.menucontent;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.util.Log;
 
 import com.crashlytics.android.Crashlytics;
@@ -32,6 +33,7 @@ public class MenuContent {
 	public static final String OUTTAKES = "outtakes";
 
 	public static boolean valid = false;
+	public static Context mContext;
 
 	// Menu map
 
@@ -57,6 +59,7 @@ public class MenuContent {
 
 	public static void setMenuData(String json, Context c) {
 		Assert.assertNotNull(json);
+		mContext = c;
 
 		try {
 			mMenuData = new JSONObject(json);
@@ -68,7 +71,7 @@ public class MenuContent {
 		valid = true;
 
 		// Update..
-		populateMealTable(c);
+		populateMealTable(mContext);
 
 	}
 
@@ -120,9 +123,6 @@ public class MenuContent {
 				// / false value
 				if (meal == null || menu.trim().toLowerCase().contains("passover"))
 					continue;
-				// --
-				// Log.i("populateMealTable: ", meal.toString());
-				// Assert.assertNotNull(meal);
 
 				List<Entree> menuList = createEntreeList(meal);
 
@@ -146,6 +146,9 @@ public class MenuContent {
 		// Iterate over meal keys (venues)..
 		@SuppressWarnings("unchecked")
 		Iterator<String> meals = (Iterator<String>) meal.keys();
+		//For Favorites
+		addFavs(mealList);
+
 		while (meals.hasNext()) {
 			String venueKey = meals.next();
 			Entree e = new Entree(venueKey, venueKey.trim(), Entree.VENUENTREE);
@@ -159,9 +162,22 @@ public class MenuContent {
 		return mealList;
 	}
 
+	private static void addFavs(List<Entree> mealList) {
+
+		SharedPreferences prefs = mContext.getSharedPreferences("glicious-madhacks-faves",
+				Context.MODE_PRIVATE);
+
+		String favKey = "Favorites";
+		Entree efav = new Entree(favKey, favKey.trim(), Entree.VENUENTREE);
+		mealList.add(efav);
+		Map<String, ?> allPrefs = prefs.getAll();
+
+		for (Map.Entry<String, ?> str : allPrefs.entrySet())
+			mealList.add(new Entree(str.getKey(), str.getKey().trim(), Entree.FAVENTREE));
+	}
 	/*
 	 * Create a list of Dishe entrees from a given JSON venue array. This method
-	 * also addes the dishes to the DishesMap hashmap.
+	 * also adds the dishes to the DishesMap hashmap.
 	 */
 	private static List<Entree> createVenueDishList(JSONArray venue) {
 

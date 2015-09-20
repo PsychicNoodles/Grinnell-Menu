@@ -2,7 +2,6 @@ package edu.grinnell.glicious;
 
 import android.content.res.Resources;
 import android.graphics.Color;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -51,9 +50,8 @@ public class MenuListAdapter extends ArrayAdapter<Entree> {
 			holder.star = (ToggleButton) convertView.findViewById(R.id.fav_star);
 			holder.nut = (TextView) convertView.findViewById(R.id.nutritionbox);
 			convertView.setTag(holder);
-		} else {
+		} else
 			holder = (ViewHolder)convertView.getTag();
-		}
 		
 		final Entree e = mData.get(position);
 
@@ -66,13 +64,10 @@ public class MenuListAdapter extends ArrayAdapter<Entree> {
 				if (isChecked) {
 					toggleButton.setBackgroundDrawable(r.getDrawable(R.drawable.clicked_360));
 					mPrefs.addFavorite(e.name);
-					Log.v("PREF", "IsChecked");
 				} else {
 					toggleButton.setBackgroundDrawable(r.getDrawable(R.drawable.unclicked_360));
 					mPrefs.removeFavorite(e.name);
-					Log.v("PREF", "IsNotChecked");
 				}
-
 			}
 		});
 		
@@ -105,7 +100,11 @@ public class MenuListAdapter extends ArrayAdapter<Entree> {
 				else
 					holder.star.setChecked(false);
 
-				holder.star.setVisibility(View.VISIBLE);
+				if (e.type == Entree.DISHENTREE)
+					holder.star.setVisibility(View.VISIBLE);
+				else
+					holder.star.setVisibility(View.GONE);
+
 				convertView.setBackgroundColor(r.getColor(R.color.gcream));
 				convertView.setBackgroundDrawable(r.getDrawable(R.drawable.glistselector));
 				holder.label.setTextColor(Color.BLACK);

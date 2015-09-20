@@ -161,7 +161,7 @@ public class DishListFragment extends ListFragment{
         if (args != null)
         	mMenuKey = args.getString(MENU);
         Log.d(DLF, mMenuKey);
-        
+
         mMenuList = new ArrayList<Entree>(MenuContent.mMealsMap.get(mMenuKey));
         
         setAdapter();

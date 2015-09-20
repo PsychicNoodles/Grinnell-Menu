@@ -6,6 +6,7 @@ public class Entree {
 
     	public static final int VENUENTREE 	= 0;
     	public static final int DISHENTREE 	= 1;
+		public static final int FAVENTREE 	= 2;
     	
     	// JSON Entree keys..
     	public static final String ID		 = "ID";
