@@ -25,90 +25,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a9124e-469e-4f97-93b9-2ca0806960b9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/pre-dexed/debug/FlurryAgent-608acc45ae354bf2054d5edc588c6a2730d39990.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/pre-dexed/debug/Parse-1.3.9-7e4fbccb08595e9a6f1eaa5c60fcfd7c3ba3d05f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/pre-dexed/debug/crashlytics-a1e6d43cb54de73d05f783a873ef0df8a1768005.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly-33a1f175d09bd4793e48302e3a07a76aba686a17.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/pre-dexed/debug/support-v4-18.0.0-a358b83dce8722efddae6b44e661b7860e9b8c77.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values-land/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values-large-v4/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values-sw400dp-v13/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values-v11/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values-v14/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values-w820dp-v13/values.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/CustomTextView.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/preferences/CustomTextView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/DishDetailActivity.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishDetailActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/DishDetailFragment.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/fragment/DishDetailFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/DishListActivity.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishListActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/DishListFragment.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/fragment/DishListFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/FavoritesPrefs.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/FavoritesPrefs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/GliciousPrefs.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/GliciousPrefs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/MainActivity.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/MenuListAdapter.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/adapters/MenuListAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/MenuPagerAdapter.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/adapters/MenuPagerAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/NutritionListAdapter.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/adapters/NutritionListAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/PrefActiv.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/PrefActiv.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/PrefFrag.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/fragment/PrefFrag.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/Utility.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/Utility.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/menucontent/Entree.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/Entree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/menucontent/GetMenuTask.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/GetMenuTask.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/menucontent/MenuContent.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/MenuContent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/menucontent/NutritionUtil.java" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/NutritionUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Breakfast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/ClientServiceApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Dinner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Entree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/GliciousClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Lunch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/MealPeriod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/OKHttp/OkHttpRestClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Response.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/Station.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Utility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/adapter_rxjava_2_0_0_beta1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_0_0_beta1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/okio_1_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/retrofit_2_0_0_beta1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxjava_1_0_14.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/glicious/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/generated/source/r/debug/edu/grinnell/glicious/R.java" afterPath="$PROJECT_DIR$/glicious/build/generated/source/r/debug/edu/grinnell/glicious/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/action_bar.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/action_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/src/main/res/layout/action_bar.xml" afterPath="$PROJECT_DIR$/glicious/src/main/res/layout/action_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/action_bar_date.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/action_bar_date.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_dish_detail.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_dish_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_dish_list.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_dish_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_dish_twopane.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_dish_twopane.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_main_activity.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/activity_main_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/anim_in.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/anim_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/anim_out.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/anim_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build.gradle" afterPath="$PROJECT_DIR$/glicious/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/circle.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/circle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/date_picker.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/date_picker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/dheader.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/dheader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/entree_row.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/entree_row.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/src/main/res/layout/entree_row.xml" afterPath="$PROJECT_DIR$/glicious/src/main/res/layout/entree_row.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/fade_in.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/fade_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/fade_out.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/fade_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/fragment_dish_detail.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/fragment_dish_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/fragment_dish_list.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/fragment_dish_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/src/main/res/layout/fragment_dish_list.xml" afterPath="$PROJECT_DIR$/glicious/src/main/res/layout/fragment_dish_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/glicious.iml" afterPath="$PROJECT_DIR$/glicious/glicious.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/glistselector.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/glistselector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/menu/launcher.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/menu/launcher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/layer_list.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/layer_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/left_slide_in.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/left_slide_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/left_slide_out.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/left_slide_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/loading.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/loading.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/glicious/manifest-merger-release-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/menu/menu_bar.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/menu/menu_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/menu/my.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/menu/my.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/nutrition_row.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/nutrition_row.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/xml/preference_headers.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/xml/preference_headers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/src/main/res/xml/preference_headers.xml" afterPath="$PROJECT_DIR$/glicious/src/main/res/xml/preference_headers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/xml/preferences.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/xml/preferences.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/prefmain.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/layout/prefmain.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/rect.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/rect.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/right_slide_in.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/right_slide_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/right_slide_out.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/anim/right_slide_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/selected.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/selected.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/selected_nopress.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/selected_nopress.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/selected_press.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/selected_press.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/color/selector.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/color/selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/star_toggle.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/star_toggle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_18_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_18_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/timing_footer.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/timing_footer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/vheader.xml" afterPath="$PROJECT_DIR$/glicious/build/intermediates/res/debug/drawable/vheader.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Grinnell-Menu.iws" />
@@ -161,31 +104,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DishListFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/fragment/DishListFragment.java">
+      <file leaf-file-name="OkHttpRestClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/OKHttp/OkHttpRestClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="129" column="5" selection-start-line="129" selection-start-column="5" selection-end-line="129" selection-end-column="5" />
-              <folding />
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FavoritesPrefs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/FavoritesPrefs.java">
+      <file leaf-file-name="GliciousClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/GliciousClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
-              <folding />
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DishListActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishListActivity.java">
+      <file leaf-file-name="Breakfast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Breakfast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6962306">
-              <caret line="190" column="28" selection-start-line="190" selection-start-column="28" selection-end-line="190" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1220#1221#0" expanded="true" />
+                <element signature="e#1267#1268#0" expanded="true" />
+                <element signature="e#1483#1484#0" expanded="true" />
+                <element signature="e#1520#1521#0" expanded="true" />
+                <element signature="e#1770#1771#0" expanded="true" />
+                <element signature="e#1812#1813#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MealPeriod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/MealPeriod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,83 +159,83 @@
         </entry>
       </file>
       <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/Utility.java">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Utility.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GliciousPrefs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/GliciousPrefs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuListAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/adapters/MenuListAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1904#2397#0" expanded="true" />
-                <element signature="e#2396#2397#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrefActiv.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/PrefActiv.java">
+      <file leaf-file-name="Dinner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Dinner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lunch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Lunch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Response.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Response.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0989011">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/build.gradle">
+      <file leaf-file-name="Station.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/Station.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.0">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="ClientServiceApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/ClientServiceApi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entree_row.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glicious/src/main/res/layout/entree_row.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
-              <folding />
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -1393,7 +1358,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/AndroidstudioProjects/KDIC-Radio-Android" value="4270291710000" />
-        <entry key="$PROJECT_DIR$" value="4331717200000" />
+        <entry key="$PROJECT_DIR$" value="4331728681000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1560,6 +1525,13 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
                             <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta1/53b5be42d6cf719ac1431b9aa9a4d5ab78856148/retrofit-2.0.0-beta1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta1/3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a/converter-gson-2.0.0-beta1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta1/27db6ccd014c866500af30d92fbfad0e3cc99ee8/adapter-rxjava-2.0.0-beta1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar" />
                             <option value="$MODULE_DIR$/libs/crashlytics.jar" />
                             <option value="$MODULE_DIR$/libs/crittercism_v3_0_3_sdkonly.jar" />
                             <option value="$MODULE_DIR$/libs/FlurryAgent.jar" />
@@ -1713,6 +1685,24 @@
         <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/FavoritesPrefs.java" />
         <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/GliciousPrefs.java" />
         <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/helpers/Utility.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/DomainObjects1003/OldModel/Interface/Station.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/Model/OldModel/Entree.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/DomainObjects1003/OldModel/Entree.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/Services/Retrofit/Practise/SimpleService.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/Services/OKHttp/OkHttpRestClient.java" />
+        <option value="$PROJECT_DIR$/glicious/build.gradle" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/ClientServiceApi.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/GliciousClient.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/OKHttp/OkHttpRestClient.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Station.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/MealPeriod.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/Station.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Breakfast.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/MealPeriod.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Utility.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Dinner.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Lunch.java" />
+        <option value="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Response.java" />
       </list>
     </option>
   </component>
@@ -1730,7 +1720,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1590" />
+    <option name="x" value="-1591" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="827" />
@@ -1845,38 +1835,8 @@
               <option name="myItemId" value="glicious" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Grinnell-Menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Glicious-Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glicious" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glicious" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menucontent" />
+              <option name="myItemId" value="services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1907,44 +1867,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="glicious" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grinnell-Menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Glicious-Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glicious" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glicious" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="activities" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2165,9 +2087,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/fragments" />
-      <recent name="$PROJECT_DIR$/glicious/src/main/res/drawable" />
-      <recent name="$PROJECT_DIR$/glicious/src/main/assets/fonts" />
+      <recent name="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel" />
+      <recent name="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/Services/" />
+      <recent name="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/Services" />
+      <recent name="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent" />
+      <recent name="$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/DomainObjects1003" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.glicious">
@@ -2379,21 +2303,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1590" y="23" width="1440" height="827" extended-state="0" />
+    <frame x="-1591" y="23" width="1440" height="827" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32630098" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32630098" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32770744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32630098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3727145" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3206751" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3206751" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2425,89 +2349,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/res/layout/action_bar.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/adapters/MenuListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/res/layout/fragment_dish_list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/MenuContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="188" column="5" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/GetMenuTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/GetMenuTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/menucontent/GetMenuTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishDetailActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2782,14 +2629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/glicious/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2844,11 +2683,123 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/activities/DishListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6962306">
-          <caret line="190" column="28" selection-start-line="190" selection-start-column="28" selection-end-line="190" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/ClientServiceApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/OKHttp/OkHttpRestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/services/Retrofit/GliciousClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/Station.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Breakfast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1483#1484#0" expanded="true" />
+            <element signature="e#1520#1521#0" expanded="true" />
+            <element signature="e#1770#1771#0" expanded="true" />
+            <element signature="e#1812#1813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Interface/MealPeriod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Dinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Lunch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glicious/src/main/java/edu/grinnell/glicious/models/OldModel/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0989011">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
