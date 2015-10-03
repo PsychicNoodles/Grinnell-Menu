@@ -8,4 +8,4 @@
     android:repeatCount="infinite"
     android:duration="1200" 
     android:interpolator="@android:anim/linear_interpolator" />
-<!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/anim/loading.xml -->
+<!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/anim/loading.xml -->

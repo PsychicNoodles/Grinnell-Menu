@@ -7,4 +7,4 @@
     <item
         android:state_checked="false"
         android:drawable="@drawable/unclicked_360" />
-</selector><!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/drawable/star_toggle.xml -->
+</selector><!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/drawable/star_toggle.xml -->

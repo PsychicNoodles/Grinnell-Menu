@@ -1,7 +1,7 @@
 <preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
 
 	<header
-		android:fragment="edu.grinnell.glicious.PrefFrag"
+		android:fragment="edu.grinnell.glicious.fragment.PrefFrag"
 		android:summary="@string/settings"
 		android:title="@string/settings">
 		<extra

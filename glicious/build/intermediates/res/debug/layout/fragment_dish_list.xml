@@ -36,7 +36,7 @@
             android:gravity="center"
             android:layout_centerInParent="true">
 
-            <edu.grinnell.glicious.CustomTextView
+            <edu.grinnell.glicious.preferences.CustomTextView
                 android:id="@+id/hours_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -46,7 +46,7 @@
                 app:fontName="RobotoCondensed-Light.ttf"
                 android:textColor="#fff"/>
 
-            <edu.grinnell.glicious.CustomTextView
+            <edu.grinnell.glicious.preferences.CustomTextView
                 android:id="@+id/hours"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -66,4 +66,4 @@
 
 </FrameLayout>
 
-<!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/layout/fragment_dish_list.xml -->
+<!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/layout/fragment_dish_list.xml -->

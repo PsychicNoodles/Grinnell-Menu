@@ -20,20 +20,20 @@
         android:theme="@style/AppTheme"
         android:label="@string/app_name" >
         <activity
-            android:name=".DishDetailActivity"
+            android:name=".activities.DishDetailActivity"
             android:screenOrientation="portrait"
             android:label="@string/title_dish_detail" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".DishListActivity" />
+                android:value=".activities.DishListActivity" />
         </activity>
         <activity
-            android:name=".PrefActiv"
+            android:name=".activities.PrefActiv"
             android:screenOrientation="portrait"
             android:label="@string/settingstitle" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".DishListActivity" />
+                android:value=".activities.DishListActivity" />
         </activity>
 
         <meta-data
@@ -41,7 +41,7 @@
             android:value="45894d9e8a6bc3b8513651d6de36159e2c836e51" />
 
         <activity
-            android:name="edu.grinnell.glicious.DishListActivity"
+            android:name=".activities.DishListActivity"
             android:screenOrientation="portrait"
             android:label="G-licious">
             <intent-filter>

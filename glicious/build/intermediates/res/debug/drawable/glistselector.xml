@@ -7,4 +7,4 @@
         android:drawable="@color/gllightred" />
   <item android:state_focused="true"
         android:drawable="@color/gllightred" />
-</selector><!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/drawable/glistselector.xml -->
+</selector><!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/drawable/glistselector.xml -->

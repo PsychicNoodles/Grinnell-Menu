@@ -5,7 +5,7 @@
     android:background="@android:color/transparent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <edu.grinnell.glicious.CustomTextView
+    <edu.grinnell.glicious.preferences.CustomTextView
         android:id="@+id/hours_text"
         android:layout_width="wrap_content"
         android:layout_above="@+id/title_text"
@@ -17,7 +17,7 @@
         android:text="Hours"
         android:textColor="#fff"/>
 
-    <edu.grinnell.glicious.CustomTextView
+    <edu.grinnell.glicious.preferences.CustomTextView
         android:id="@+id/title_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -30,4 +30,4 @@
         android:textColor="#fff"/>
     
 
-</RelativeLayout><!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/layout/action_bar.xml -->
+</RelativeLayout><!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/layout/action_bar.xml -->

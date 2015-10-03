@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="actionBarMaterialGrey">#616161</color>
     <color name="black_overlay">#66000000</color>
@@ -20,20 +20,20 @@
     <declare-styleable name="ActionButton"><attr format="integer" name="drawable"/><attr format="color" name="color"/><attr format="float" name="shadowRadius"/><attr format="float" name="shadowDx"/><attr format="float" name="shadowDy"/><attr format="integer" name="shadowColor"/></declare-styleable>
     <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
     <declare-styleable name="CustomTextView"><attr format="string" name="fontName"/><attr format="string" name="fontColor"/></declare-styleable>
-    <!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">G-licious</string>
     <string name="cancel">Cancel</string>
     <string name="chooseDate">Select Date</string>
-    <!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/values/com_crashlytics_export_strings.xml -->
+    <!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/values/com_crashlytics_export_strings.xml -->
     <eat-comment/>
     <string name="com.crashlytics.android.build_id">95285140-306e-478e-a45b-e4d16f39f0c4</string>
-    <!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="dietconst">Dietary Considerations</string>
     <string name="dummy_button">Dummy Button</string>
@@ -63,7 +63,7 @@
     <string name="title_menu">G-licious</string>
     <string name="veganpref">Vegan</string>
     <string name="veganprefsummary">Show only items safe for a vegan diet.</string>
-    <!-- From: file:/Users/samee/Desktop/Grinnell-Menu/glicious/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/albertowusu-asare/Documents/Programming/Andriod/GrinnellAppDev/Glicious-Android/glicious/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ButtonBar">
         <item name="android:paddingLeft">2dp</item>

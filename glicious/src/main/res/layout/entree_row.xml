@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal">
     
-    <edu.grinnell.glicious.CustomTextView
+    <edu.grinnell.glicious.preferences.CustomTextView
         android:id="@+id/namebox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -17,7 +17,7 @@
         android:layout_weight="1"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
-    <edu.grinnell.glicious.CustomTextView
+    <edu.grinnell.glicious.preferences.CustomTextView
         android:id="@+id/nutritionbox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -53,7 +53,7 @@ ADDED from AndroidManifest.xml:17:5
 		ADDED from AndroidManifest.xml:19:9
 	android:theme
 		ADDED from AndroidManifest.xml:20:9
-activity#edu.grinnell.glicious.DishDetailActivity
+activity#edu.grinnell.glicious.activities.DishDetailActivity
 ADDED from AndroidManifest.xml:22:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:24:13
@@ -67,7 +67,7 @@ ADDED from AndroidManifest.xml:26:13
 		ADDED from AndroidManifest.xml:27:17
 	android:value
 		ADDED from AndroidManifest.xml:28:17
-activity#edu.grinnell.glicious.PrefActiv
+activity#edu.grinnell.glicious.activities.PrefActiv
 ADDED from AndroidManifest.xml:30:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:32:13
@@ -81,7 +81,7 @@ ADDED from AndroidManifest.xml:39:9
 		ADDED from AndroidManifest.xml:40:13
 	android:value
 		ADDED from AndroidManifest.xml:41:13
-activity#edu.grinnell.glicious.DishListActivity
+activity#edu.grinnell.glicious.activities.DishListActivity
 ADDED from AndroidManifest.xml:43:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:45:13
