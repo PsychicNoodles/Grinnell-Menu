@@ -2,151 +2,94 @@
 <items version="2" >
 
     <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/exploded-aar/Grinnell-Menu/parallaxScroll/unspecified/classes.jar"
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/libs/Parse-1.3.9.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="6c6baf891f2fd60e3188619e50ed4d370b02e6ad">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/classes-82815a2c98bd37d09de2730a7bc067df5b2c4f36.jar" />
-    </item>
-    <item
-        jar="/Users/samee/Desktop/Grinnell-Menu/glicious/libs/Parse-1.3.9.jar"
-        jumboMode="false"
-        revision="20.0.0"
+        optimize="true"
+        revision="25.0.2"
         sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
-        <dex dex="/Users/samee/Desktop/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/Parse-1.3.9-7e4fbccb08595e9a6f1eaa5c60fcfd7c3ba3d05f.jar" />
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/Parse-1.3.9_a58082d02b9b3b4d91d19cc3f1c1baac5e10ca69.jar" />
     </item>
     <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/pre-dexed/debug/classes-b474a86f4c26def69b0d1d8d0a0c0d6d92a5b719.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_d54d7037ac9721f602daadd9f8b85e734d83288a.jar" />
     </item>
     <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/libs/Parse-1.3.9.jar"
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/pre-dexed/debug/Parse-1.3.9-9f9231f761b05751de7021b5ad5b7d117b589142.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_5de94794cace7a7e66dc60e5bc3917b6e9ad17d9.jar" />
     </item>
     <item
-        jar="/Users/samee/Downloads/android_dev_environment_mac/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/libs/crittercism_v3_0_3_sdkonly.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/samee/Desktop/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/support-v4-18.0.0-a358b83dce8722efddae6b44e661b7860e9b8c77.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/libs/Parse-1.3.9.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/Parse-1.3.9-ed927bf58d6c6b30c4df1a0cc879a05fd4201423.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/libs/crashlytics.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="92184602ab21fafa4591e520cc038ce8f238a81d">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/pre-dexed/debug/crashlytics-d2f3bdc3a2a4d38cde9c84a8252a47c4f0a60314.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/libs/crashlytics.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="92184602ab21fafa4591e520cc038ce8f238a81d">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/crashlytics-52b3aa3ef7dc485e3537b397bdd0ae1d6d41674d.jar" />
-    </item>
-    <item
-        jar="/Users/samee/Downloads/android_dev_environment_mac/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-4e66ea028b734a38ed8737bfbddcc26f8d95bdb6.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/libs/FlurryAgent.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="2f3197f888ab34b6b4a0fd476f90204054e106c2">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/FlurryAgent-4850edd467ebf19776b078d2092575cfbd8ac49e.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/libs/FlurryAgent.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="2f3197f888ab34b6b4a0fd476f90204054e106c2">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/pre-dexed/debug/FlurryAgent-9ba877b1ac58e74dc01c0eb69d1929f3601a26a6.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-6167162191a62cb390053061ade4c9a0c8465991.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-2260eff8a33fae49ad297da74ea4a5ff8752908f.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/libs/crittercism_v3_0_3_sdkonly.jar"
-        jumboMode="false"
-        revision="20.0.0"
+        optimize="true"
+        revision="25.0.2"
         sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly-ddc510f5a2f68a72bc8faaba1431d89218c04ee9.jar" />
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly_51a696ea1c6c14a2ae8c186877811427f909af52.jar" />
     </item>
     <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/libs/crittercism_v3_0_3_sdkonly.jar"
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly-ce1241e833160e3514a0bafafa62c153c2bfc76a.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_cb9c03cdab14a394a2e415d3d8c4ec60c3ced4ff.jar" />
     </item>
     <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/libs/FlurryAgent.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="af64527b748983a75de9c0756e9768b56b240a49">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/classes-379c608ffb08822bfbe47b010586a0bd46a30008.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/classes-9e2b6579ad2164ed834714079c689cbcb5c86e90.jar" />
-    </item>
-    <item
-        jar="/Users/samee/Desktop/Grinnell-Menu/glicious/libs/crittercism_v3_0_3_sdkonly.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
-        <dex dex="/Users/samee/Desktop/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly-33a1f175d09bd4793e48302e3a07a76aba686a17.jar" />
-    </item>
-    <item
-        jar="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="af64527b748983a75de9c0756e9768b56b240a49">
-        <dex dex="/Users/samee/AndroidstudioProjects/Grinnell-Menu-NoRecipe/glicious/build/intermediates/pre-dexed/debug/classes-809a765555c5bc459fb4689e72bec948cc30b3cc.jar" />
-    </item>
-    <item
-        jar="/Users/samee/Desktop/Grinnell-Menu/glicious/libs/FlurryAgent.jar"
-        jumboMode="false"
-        revision="20.0.0"
+        optimize="true"
+        revision="25.0.2"
         sha1="2f3197f888ab34b6b4a0fd476f90204054e106c2">
-        <dex dex="/Users/samee/Desktop/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/FlurryAgent-608acc45ae354bf2054d5edc588c6a2730d39990.jar" />
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/FlurryAgent_9bb6dd4a1726d08bf2fa4c962e5ddc3ce3ee61b9.jar" />
     </item>
     <item
-        jar="/Users/samee/Desktop/Grinnell-Menu/glicious/libs/crashlytics.jar"
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_119f99acee98c646d894171adb83da37817f9d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mattori/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_24886fa4b724c60fc158f7c2257c0b78c17836ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_7f068dbb28e5543a006a53dc9411edff925e2e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mattori/AppDev/Grinnell-Menu/glicious/libs/crashlytics.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
         sha1="92184602ab21fafa4591e520cc038ce8f238a81d">
-        <dex dex="/Users/samee/Desktop/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/crashlytics-a1e6d43cb54de73d05f783a873ef0df8a1768005.jar" />
+        <dex dex="/Users/Mattori/AppDev/Grinnell-Menu/glicious/build/intermediates/pre-dexed/debug/crashlytics_f9cbefcaa46f6d2430771cdbf5b936e1b395b9ef.jar" />
     </item>
 
 </items>

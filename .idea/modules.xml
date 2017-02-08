@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Grinnell-Menu.iml" filepath="$PROJECT_DIR$/.idea/Grinnell-Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grinnell-Menu.iml" filepath="$PROJECT_DIR$/Grinnell-Menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/glicious/glicious.iml" filepath="$PROJECT_DIR$/glicious/glicious.iml" />
     </modules>
   </component>
 </project>
-
